@@ -1,0 +1,74 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "image": "https://picsum.photos/400/400",
+            "title": "Lorem Ipsum is simply dummy text 1",
+            "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae aliquam ultricies, nunc nisl ultricies nunc, vitae ali"
+        },
+        {
+            "id": 2,
+            "image": "https://picsum.photos/400/400",
+            "title": "Lorem Ipsum is simply dummy text 2",
+            "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae aliquam ultricies, nunc nisl ultricies nunc, vitae ali"
+        },
+        {
+            "id": 3,
+            "image": "https://picsum.photos/400/400",
+            "title": "Lorem Ipsum is simply dummy text 3",
+            "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae aliquam ultricies, nunc nisl ultricies nunc, vitae ali"
+        },
+        {
+            "id": 4,
+            "image": "https://picsum.photos/400/400",
+            "title": "Lorem Ipsum is simply dummy text 4",
+            "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae aliquam ultricies, nunc nisl ultricies nunc, vitae ali"
+        },
+        {
+            "id": 5,
+            "image": "https://picsum.photos/400/400",
+            "title": "Lorem Ipsum is simply dummy text 5",
+            "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae aliquam ultricies, nunc nisl ultricies nunc, vitae ali"
+        },
+        {
+            "id": 6,
+            "image": "https://picsum.photos/400/400",
+            "title": "Lorem Ipsum is simply dummy text 6",
+            "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae aliquam ultricies, nunc nisl ultricies nunc, vitae ali"
+        },
+        {
+            "id": 7,
+            "image": "https://picsum.photos/400/400",
+            "title": "Lorem Ipsum is simply dummy text 7",
+            "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae aliquam ultricies, nunc nisl ultricies nunc, vitae ali"
+        },
+        {
+            "id": 8,
+            "image": "https://picsum.photos/400/400",
+            "title": "Lorem Ipsum is simply dummy text 8",
+            "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae aliquam ultricies, nunc nisl ultricies nunc, vitae ali"
+        },
+        {
+            "id": 9,
+            "image": "https://picsum.photos/400/400",
+            "title": "Lorem Ipsum is simply dummy text 9",
+            "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae aliquam ultricies, nunc nisl ultricies nunc, vitae ali"
+        },
+        {
+            "id": 10,
+            "image": "https://picsum.photos/800",
+            "title": "Lorem Ipsum is simply dummy text 10",
+            "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl vitae aliquam ultricies, nunc nisl ultricies nunc, vitae ali"
+        }
+    ]
+}

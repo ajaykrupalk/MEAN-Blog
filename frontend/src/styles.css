@@ -1,0 +1,44 @@
+/* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mask-image {
+	-webkit-mask-image: url(./assets/pattern.png);
+	mask-image: url(./assets/pattern.png);
+	object-fit: cover;
+	-webkit-mask-size: 100% 100%;
+	mask-size: 100% 100%;
+	mask-repeat: no-repeat;
+}
+
+.hover-effect figure img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.hover-effect figure:hover img {
+	-webkit-transform: scale(1.05);
+	transform: scale(1.05);
+}
+
+.underline-effect {
+	text-decoration: none;
+	background:
+		linear-gradient(to right,
+			rgb(74 222 128),
+			rgb(74 222 128)),
+		linear-gradient(to right,
+			rgb(74 222 128),
+			rgb(74 222 128));
+	background-size: 0 1px, 0 1px;
+	background-position: 100% 100%, 0 100%;
+	background-repeat: no-repeat;
+	transition: background-size 500ms;
+}
+
+.underline-effect:hover {
+	background-size: 0 2px, 100% 2px;
+}

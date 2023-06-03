@@ -1,0 +1,8 @@
+.mask-image {
+  -webkit-mask-image: url(../../../assets/pattern.png);
+  mask-image: url(../../../assets/pattern.png);
+  object-fit: cover;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  mask-repeat: no-repeat;
+}
